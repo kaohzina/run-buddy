@@ -250,13 +250,12 @@ section {
   color:#fce138;
 }
 
-.contact-info iframe {
+.contact-info iframe{
   width: 400px;
   height: 400px;
-  float: left;
 }
 
-.contact-info {
+.contact-info{
   width:410px;
   display: inline-block;
   vertical-align: top;
